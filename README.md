@@ -1,4 +1,4 @@
-# ql-docker
+# 2v2 promode on oldschool ra3 maps
 
 A Docker image for running a dedicated Quake Live server.  It includes installation of minqlx and bundles most of the custom maps from the Steam workshop.
 
