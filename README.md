@@ -6,9 +6,8 @@ A docker image for 2v2 promode arena on classic ra3 maps with a fun ruleset base
 
 To start a new server using this image:
 
-1. git clone https://github.com/jamesla/ql-docker.git
-2. cd ql-docker
-3. ./docker-deploy.sh
+1. git clone --recursive https://github.com/jamesla/ql-docker.git
+2. cd 2v2-promode-arena && ./docker-deploy.sh
 
 The image exposes a few environment variables to control deployment - change these in docker-deploy.sh and rerun it to take effect.
 
